@@ -1,0 +1,10 @@
+{
+  "name": "eigene-mods",
+  "owner": { "name": "Nico Schulz" },
+  "plugins": [
+    { "name": "spar-modus", "source": "./spar-modus" },
+    { "name": "dashboard", "source": "./dashboard" },
+    { "name": "team", "source": "./team" },
+    { "name": "firma", "source": "./firma" }
+  ]
+}

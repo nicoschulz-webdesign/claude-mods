@@ -1,0 +1,5 @@
+{
+  "name": "spar-modus",
+  "version": "0.1.0",
+  "description": "Schickt Kleinkram (Tippfehler, Formatieren, Übersetzen) automatisch an Haiku, um das Limit zu schonen."
+}

@@ -1,0 +1,6 @@
+{
+  "name": "firma",
+  "version": "0.1.0",
+  "description": "Eine kleine Firma aus Agenten: Der Chef verteilt Aufgaben an günstige Abteilungen mit festen Budgets, führt Kostenstellen und stellt neue Mitarbeiter nur mit deiner Zustimmung ein.",
+  "types": "./types/index.d.ts"
+}

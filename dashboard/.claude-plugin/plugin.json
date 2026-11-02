@@ -1,0 +1,6 @@
+{
+  "name": "dashboard",
+  "version": "0.1.0",
+  "description": "Dashboard neben dem Chat: To-dos und Nachrichten aus allen Quellen, mit Antworten-Entwurf.",
+  "types": "./types/index.d.ts"
+}

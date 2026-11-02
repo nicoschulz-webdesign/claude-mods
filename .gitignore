@@ -1,0 +1,4 @@
+# Personal data the dashboard imports once; never share it.
+dashboard/seed.json
+.claude-plugin/types/
+*/.claude-plugin/types/
